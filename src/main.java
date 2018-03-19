@@ -1,4 +1,4 @@
-package main;
+package calculate;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -77,6 +77,7 @@ public class main {
         //}
         }
         BufferedWriter out = new BufferedWriter(new FileWriter(writename));
+        out.write("201571030118\r\n"); // \r\n¼´Îª»»ÐÐ 
          // n=in.nextInt();
         int value;
         for(i=0;i<n;i++){
