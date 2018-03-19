@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.*;
 
 
-public class main {
+public class Main {
 	public static String s= new String();
 	public static int n;
 	//下面的方法为分式化解
